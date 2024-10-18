@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-[![Instagram Badge](https://img.shields.io/badge/vianney_ir-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vianney_ir/)
- 
-[![Gmail Badge](https://img.shields.io/badge/-vianneyinfantraj1602@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rishithayanidhi@gmail.com)](mailto:vianneyinfantraj1602@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-vianneyinfantraj1602@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vianneyinfantraj1602@gmail.com)](mailto:vianneyinfantraj1602@gmail.com)
 
 # 💫 About Me:
 I'm Vianney🤞, a II-year student at Sri Sairam Engineering College. I am passionate about Data Science, I am in the path of continuous learning, extending my limits, and participating in social activities that aim to have a constructive impact.<br><br>🧑🏽‍💻 Python, Machine Learning, Java<br>✉️ You can contact me at vianneyinfantraj1602@gmail.com<br>🧠 I'm learning ML , DL Algorithms and App Development<br>⚡ Trust the process not the Results
