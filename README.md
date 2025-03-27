@@ -12,6 +12,8 @@ I'm Vianney🤞, a II-year student at Sri Sairam Engineering College. I am passi
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-blue?style=for-the-badge)  
+![CNN](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Deep_Learning.svg/512px-Deep_Learning.svg.png)
+
 
 
 # 📊 GitHub Stats:
